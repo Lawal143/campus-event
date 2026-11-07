@@ -235,19 +235,19 @@ export default function Home() {
               Home
             </a>
             <a
-              href="#explore"
+              href="./events"
               className="transition hover:text-[#FF6534]"
             >
               Explore Events
             </a>
             <a
-              href="/my-events"
+              href="./my-events"
               className="transition hover:text-[#FF6534]"
             >
               My Events
             </a>
             <a
-              href="#about"
+              href="./about"
               className="transition hover:text-[#FF6534]"
             >
               About
